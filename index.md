@@ -2,6 +2,10 @@
 
 ## Tech Notes
 
-  - ##### [Python](technotes/1_python)
+  - ##### [Python](1_python)
+
+  - ##### [Others](others)
+
+    
 
 
